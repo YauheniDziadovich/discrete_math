@@ -1,0 +1,1 @@
+This repo is used for the "Discrete math for programmers" tasks at the end of each chapter.
